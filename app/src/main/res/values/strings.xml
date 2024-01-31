@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="Register"><a href="">Register</a></string>
+    <string name="Reset"><a href="">Reset</a></string>
+    <string name="login_sub_title">
+        <font color = "#ffffff"><b>Login</b> </font>
+        if you already have account.
+
+    </string>
+</resources>
