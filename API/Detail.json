@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "title": "The Shawshank Redemption",
+  "poster": "https://moviesapi.ir/images/tt0111161_poster.jpg",
+  "year": "1994",
+  "rated": "R",
+  "released": "14 Oct 1994",
+  "runtime": "142 min",
+  "director": "Frank Darabont",
+  "writer": "Stephen King (short story \"Rita Hayworth and Shawshank Redemption\"), Frank Darabont (screenplay)",
+  "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+  "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+  "country": "USA",
+  "awards": "Nominated for 7 Oscars. Another 19 wins & 30 nominations.",
+  "metascore": "80",
+  "imdb_rating": "9.3",
+  "imdb_votes": "1,738,596",
+  "imdb_id": "tt0111161",
+  "type": "movie",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "images": [
+    "https://moviesapi.ir/images/tt0111161_screenshot1.jpg",
+    "https://moviesapi.ir/images/tt0111161_screenshot2.jpg",
+    "https://moviesapi.ir/images/tt0111161_screenshot3.jpg"
+  ]
+}
